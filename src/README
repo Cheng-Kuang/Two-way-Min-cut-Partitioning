@@ -1,0 +1,7 @@
+In HW2/src enter make, and the executable hw2 will in /bin
+
+using "$make clean" to clean
+
+input "$./hw2 in.txt out.out" in bin
+
+to execute
